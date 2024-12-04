@@ -10,7 +10,7 @@ require 'functions.php';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $title = "Artify" ?></title>
-  <link rel="icon" href="./assets/img/halo.webp">
+  <link rel="icon" href="./assets/img/logo.png">
   <link rel="stylesheet" href="./style/style.css">
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -36,6 +36,6 @@ require 'functions.php';
   </style>
 </head>
 
-<body  class="d-flex flex-column min-vh-100">
+<body class="d-flex flex-column min-vh-100">
   <?php include 'template/_navbar.php'; ?>
   <div class="container my-5">

@@ -4,10 +4,10 @@
 <footer class="bg-dark text-light py-5 mt-auto">
   <div class="container">
     <div class="row">
-      <!-- Tentang BoShop -->
+      <!-- Tentang Artify -->
       <div class="col-md-4 mb-3">
-        <h5 class="fw-bold">Tentang BoShop</h5>
-        <p class="text-muted">Nikmati pengalaman berbelanja online yang cepat dan nyaman hanya di BoShop. Temukan produk favorit Anda dengan mudah!</p>
+        <h5 class="fw-bold">Tentang Artify</h5>
+        <p class="text-muted">Nikmati pengalaman berbelanja online yang cepat dan nyaman hanya di Artify. Temukan produk favorit Anda dengan mudah!</p>
       </div>
       <!-- Links -->
       <div class="col-md-4 mb-3">
@@ -29,7 +29,7 @@
       </div>
     </div>
     <hr class="text-muted">
-    <p class="text-center text-muted mb-0">© <?= date("Y") ?> BoShop. Semua hak dilindungi.</p>
+    <p class="text-center text-muted mb-0">© <?= date("Y") ?> Artify. Semua hak dilindungi.</p>
   </div>
 </footer>
 
